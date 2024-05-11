@@ -11,7 +11,8 @@ import com.example.foodorder.databinding.ActivityMainBinding;
 
 import java.util.ArrayList;
 
-public class MainActivity extends AppCompatActivity {
+public class
+MainActivity extends AppCompatActivity {
     ActivityMainBinding binding;
     ListAdapter listAdapter;
 
